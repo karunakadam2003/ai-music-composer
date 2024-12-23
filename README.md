@@ -31,6 +31,7 @@ AI-powered music composition tool with customizable genres, moods, and collabora
 3. **Model Pipeline:** Preprocessing, training, and inference modules.
 4. **Database:** Stores user preferences, generated files, and training datasets.
 5. **Cloud Integration:** For model training and deployment (e.g., Google Cloud, AWS).
+![diagram-export-23-12-2024-7_13_50-pm](https://github.com/user-attachments/assets/809f11dc-fab4-4d8b-a34d-805e94eaa454)
 
 ## **Installation**
 ### Prerequisites:
