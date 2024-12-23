@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+node_modules/
+maestro-v1.0.0-midi/
