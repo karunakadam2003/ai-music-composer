@@ -41,7 +41,7 @@ AI-powered music composition tool with customizable genres, moods, and collabora
 ### Steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/ai-music-composer.git
+   https://github.com/karunakadam2003/ai-music-composer.git
    cd ai-music-composer
    ```
 2. Install dependencies:
