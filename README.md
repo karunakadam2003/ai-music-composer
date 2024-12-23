@@ -74,7 +74,7 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
-## ** Papers**
+## **Papers**
 [1] Curtis Hawthorne, Andriy Stasyuk, Adam Roberts, Ian Simon, Cheng-Zhi Anna Huang,
     Sander Dieleman, Erich Elsen, Jesse Engel, and Douglas Eck. "Enabling
     Factorized Piano Music Modeling and Generation with the MAESTRO Dataset."
