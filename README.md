@@ -84,3 +84,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Research and models from OpenAI, Google Magenta, and others.
 - Datasets like MAESTRO and NSynth for providing training data.
 - The open-source community for their contributions and inspiration.
+
+## Under Development
+This project is actively being worked on and is not yet complete.
